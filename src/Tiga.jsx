@@ -14,7 +14,6 @@ function formatName(user) {
   );
 
 
-
 function Tiga() {
     return (
         element
